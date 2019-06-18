@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "273144463372",
+    "firebase_url": "https://dyslexia-fab39.firebaseio.com",
+    "project_id": "dyslexia-fab39",
+    "storage_bucket": "dyslexia-fab39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273144463372:android:8986a9e5239199f2",
+        "android_client_info": {
+          "package_name": "com.kodluyoruz.dyslexia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "273144463372-umgak9rsnoj2ct1dc5qe6q541391r09g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq6xR_Xduu4vUzG19yPjxCfGQyHRXsCpY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "273144463372-umgak9rsnoj2ct1dc5qe6q541391r09g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "273144463372-3pt99k4i259qmcbt6dk5lrte2e6ka8vo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kodluyoruz.dyslexia"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
